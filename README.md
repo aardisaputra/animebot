@@ -13,6 +13,8 @@ Discord bot template that displays current top anime
 
 -This is only a template, to create the actual bot, refer to other resources
 
+-This project was originally made in late 2020
+
 ## Command List:
 
 *top (air/upcoming/alltime)
