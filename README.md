@@ -1,5 +1,5 @@
 # Anime Discord Bot
-Discord bot that displays current top anime
+Discord bot template that displays current top anime
 
 ## Important info:
 
@@ -10,6 +10,8 @@ Discord bot that displays current top anime
 -The bot is not currently hosted online
 
 -Feel free to do whatever with the code
+
+-This is only a template, to create the actual bot, refer to other resources
 
 ## Command List:
 
